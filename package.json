@@ -4,9 +4,9 @@
 	"version": "0.1.0",
 	"publisher": "angelorafael",
 	"author": {
-		"name": "Angelo Rafael Pinto"
+		"name": "Angelo Rafael"
 	},
-    "displayName": "Materialize CSS  (.html | .vue | .js | .jsx | .tsx )",
+    "displayName": "Materialize CSS (.html | .vue | .js | .jsx | .tsx )",
     "description": "Materialize CSS working with .vue and .js(react) files.",
     "repository": {
 		"type": "git",
@@ -14,10 +14,6 @@
 	},
     "engines": {
         "vscode": "^1.40.0"
-    },
-    "galleryBanner": {
-        "color": "#346DF8",
-        "theme": "dark"
     },
     "categories": [
         "Snippets"
