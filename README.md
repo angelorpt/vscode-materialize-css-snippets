@@ -6,7 +6,7 @@
 
 ## Steps
 
-1. Clone and prepare to run at .vue | .js | .jsx | .tsx | _**[done]**_
+1. Fork and prepare to run at .vue | .js | .jsx | .tsx | _**[done]**_
 
 2. Review Snippets and Create New Snippets _**[coming soon]**_
 
@@ -274,6 +274,6 @@ Remember to put the word **mz-** and then the component that you want to call, *
 
 _Thanks to [Lenin Peña](https://github.com/leninalbertolp)_
 
-_Cloned from [materialize-snippets-vscode](https://github.com/leninalbertolp/materialize-snippets-vscode)_
+_Forked from [materialize-snippets-vscode](https://github.com/leninalbertolp/materialize-snippets-vscode)_
 
 ### Enjoy it!
