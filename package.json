@@ -1,0 +1,73 @@
+{
+    "name": "materialize-css-snippets",
+    "icon": "img/logo.png",
+	"version": "0.1.0",
+	"publisher": "angelorafael",
+	"author": {
+		"name": "Angelo Rafael Pinto"
+	},
+    "displayName": "Materialize CSS  (.html | .vue | .js | .jsx | .tsx )",
+    "description": "Materialize CSS working with .vue and .js(react) files.",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/angelorpt/vscode-Laravel-API"
+	},
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "galleryBanner": {
+        "color": "#346DF8",
+        "theme": "dark"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "keywords": [
+        "materialize",
+        "css",
+        "html",
+        "vue",
+        "react",
+        "snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "ruby",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "vue-html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets-react.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets-react.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/snippets-react.json"
+            }
+        ]
+    }
+}
