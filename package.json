@@ -10,7 +10,7 @@
     "description": "Materialize CSS working with .vue and .js(react) files.",
     "repository": {
 		"type": "git",
-		"url": "https://github.com/angelorpt/vscode-Laravel-API"
+		"url": "https://github.com/angelorpt/vscode-materialize-css-snippets"
 	},
     "engines": {
         "vscode": "^1.40.0"
